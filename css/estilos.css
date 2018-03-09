@@ -122,6 +122,6 @@ body {
 }
 
 #game-over p {
-    color: yellow;
+    color: rgb(255, 60, 0);
     font-size: 140px;
 }
